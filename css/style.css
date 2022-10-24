@@ -109,7 +109,7 @@
     color: var(--main-color);
     font-size: 26px;
     font-weight: bold;
-    height: 80px;
+    height: 100px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -318,7 +318,7 @@
     font-weight: bold;
     line-height: 1.5;
     margin-bottom: 20px;
-    color: black;
+    color: rgb(250, 192, 85);
   }
   @media (max-width: 991px) {
     .landing .text .content h2 {
